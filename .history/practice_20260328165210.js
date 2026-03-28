@@ -9,10 +9,10 @@ console.log(`Number ${num} is: ${type}`);
 
 
 // --- 2. AUTHENTICATION LOGIC (Login System) ---
-let email = "shahmeer@gmail.com";
+let email = "shahmeerx002@gmail.com";
 let password = "12345";
 
-const isAuth = (email === "shahmeer@gmail.com" && password === "12345");
+const isAuth = (email === "shahmeerx002@gmail.com" && password === "12345");
 console.log(isAuth ? "Login Successful ✅" : "Invalid Credentials ❌");
 
 

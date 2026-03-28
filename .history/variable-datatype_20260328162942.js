@@ -1,5 +1,5 @@
 /**
- * JS CORE: VARIABLES & DATA TYPES 
+ * JS CORE: VARIABLES & DATA TYPES 🏗️
  * ---------------------------------
  * JS is High-level (human-like). 
  * Main thing to remember: Primitive vs Reference memory.
